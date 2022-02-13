@@ -1,4 +1,3 @@
-# TurnOnTheLights
 
 ## Goals
 
