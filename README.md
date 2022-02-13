@@ -11,3 +11,5 @@ Controls are stated in the first level of the game, but when on the title screen
 ## ScreenShots
 
 ![Title Screen](https://raw.githubusercontent.com/rustyCar05/turn-on-the-lights/main/titleScreen.PNG)
+![Play Screen](https://raw.githubusercontent.com/rustyCar05/turn-on-the-lights/main/playScreen.PNG)
+![Pause Screen](https://raw.githubusercontent.com/rustyCar05/turn-on-the-lights/main/pauseScreen.PNG)
