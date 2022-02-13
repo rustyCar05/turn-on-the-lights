@@ -7,3 +7,7 @@ Players are in the headspace of someone dealing with depression.  Players will c
 ## Controls
 
 Controls are stated in the first level of the game, but when on the title screen, use W and S to go through options and ENTER to select one.
+
+## ScreenShots
+
+![Title Screen] (https://raw.githubusercontent.com/rustyCar05/turn-on-the-lights/main/titleScreen.PNG)
